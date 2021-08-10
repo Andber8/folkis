@@ -1,6 +1,6 @@
 # folkis
 Få notiser om lediga drop-in tider till Folktandvården i Stockholm.
-Filerna placeras i /root/folkis eller annan mapp
+Filerna placeras i /root/folkis eller annan mapp men då måste vissa ändringar göras.
 
 Följ dessa sidor för att få till att skicka via Telegram
 https://medium.com/@robertbracco1/how-to-write-a-telegram-bot-to-send-messages-with-python-bcdf45d0a580 eller
