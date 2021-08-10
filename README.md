@@ -23,7 +23,7 @@ cd /root/folkis
 python3.7 /root/folkis/folkis_final.py
 python3.7 /root/folkis/folkis_final2.py
 
-I /root/.bashrc läggs detta till utifrån vad du hittar i Twilios sandbox
+I /root/.bashrc läggs detta till utifrån vad du hittar i Twilios sandbox<br>
 export TWILIO_ACCOUNT_SID="AC1dxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"<br>
 export TWILIO_AUTH_TOKEN="ad8bxxxxxxxxxxxxxxxxxxxxxxxxxxxx"<br>
 export from_whatsapp_number="whatsapp:+141xxxxxxxx"<br>
