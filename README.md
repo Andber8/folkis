@@ -7,6 +7,7 @@ https://medium.com/@robertbracco1/how-to-write-a-telegram-bot-to-send-messages-w
 https://pypi.org/project/telegram-send/
 
 För WhatsApp:
+https://www.twilio.com/blog/send-whatsapp-message-30-seconds-python eller
 https://www.twilio.com/docs/whatsapp/quickstart/python eller
 https://www.youtube.com/watch?v=98OewpG8-yw <br>
 sudo pip install twilio
